@@ -1,6 +1,6 @@
 # nodets-canil
 
-Projeto feito no mudlo curso Node + Typescript
+Projeto feito no mudulo curso Node + Typescript
 
 ### Pré-requisitos globais:
 
@@ -10,6 +10,6 @@ Projeto feito no mudlo curso Node + Typescript
 
 `npm install`
 
-### Para rodarr o projeto
+### Para rodar o projeto
 
 `npm run start-dev`
